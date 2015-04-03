@@ -1,0 +1,376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"timeTemp"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"tfor",
+				"tFormatStart"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"select",
+				"selectBuild"
+			],
+			[
+				"temp",
+				"tempS"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"dates",
+				"datesString"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"word",
+				"word10"
+			],
+			[
+				"wor",
+				"word3"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1909,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/King/Documents/PhoneGap/workshop/www/js/EmployeeView",
+		"/C/Users/King/Documents/PhoneGap/workshop/www/js/services/localstorage/EmployeeService.js",
+		"/C/Users/King/Documents/PhoneGap/workshop/www/js/services/websql/EmployeeService.js",
+		"/C/Users/King/Documents/PhoneGap/workshop/www/js/services/memory/EmployeeService.js",
+		"/C/Users/King/Documents/PhoneGap/workshop/www/css/index.css",
+		"/C/Users/King/Documents/PhoneGap/workshop/www/js/index.js",
+		"/C/Users/King/Documents/PhoneGap/workshop/www/index.html",
+		"/C/xampp/htdocs/Chris/backoffice/index.php",
+		"/C/xampp/htdocs/Chris/backoffice/js/custom.js",
+		"/C/xampp/htdocs/Chris/backoffice/data/open.php",
+		"/C/xampp/htdocs/Chris/backoffice/css/custom.css",
+		"/C/xampp/htdocs/Chris/backoffice/css/contact.css",
+		"/C/xampp/htdocs/Chris/backoffice/calendarfiles/fullcalendar.js",
+		"/C/xampp/htdocs/Chris/backoffice/calendarfiles/demos/selectable.html",
+		"/C/xampp/htdocs/Chris/backoffice/conn.php",
+		"/C/xampp/htdocs/Chris/backoffice/js/contact.js",
+		"/C/xampp/htdocs/Chris/js/custom.js",
+		"/C/Users/King/Desktop/ratingsheetBLANK.asp",
+		"/C/Users/King/Desktop/ratingsheet7.asp",
+		"/C/Users/King/Desktop/ratingsheet7blank.asp",
+		"/C/xampp/htdocs/Chris/calendarfiles/demos/selectable.html",
+		"/C/xampp/htdocs/Chris/data/contact.php",
+		"/C/xampp/htdocs/Chris/js/contact.js",
+		"/C/xampp/htdocs/Chris/css/custom.css",
+		"/C/xampp/htdocs/Chris/css/style.css",
+		"/C/xampp/htdocs/Chris/calendarfiles/lib/jquery.min.js",
+		"/C/xampp/htdocs/Chris/conn.php",
+		"/C/xampp/htdocs/Chris/default.html",
+		"/C/xampp/htdocs/Chris/calendarfiles/fullcalendar.js",
+		"/C/xampp/htdocs/Chris/calendarfiles/demos/php/utils.php",
+		"/C/xampp/htdocs/Chris/calendarfiles/demos/php/get-events.php",
+		"/C/xampp/htdocs/Chris/calendarfiles/demos/json/events.json",
+		"/C/xampp/htdocs/Chris/calendarfiles/fullcalendar.css",
+		"/C/Users/King/Dropbox/Chris/js/custom.js",
+		"/C/xampp/htdocs/Chris/index.html",
+		"/C/Users/King/Desktop/contact.js",
+		"/C/xampp/htdocs/Chris/js/custom.php",
+		"/C/Users/King/Dropbox/Chris/default.html",
+		"/C/Users/King/Dropbox/Chris/conn.php",
+		"/C/Users/King/Dropbox/Chris/index.php",
+		"/C/Users/King/Dropbox/Chris/calendarfiles/demos/json.html",
+		"/C/Users/King/Dropbox/Chris/calendarfiles/demos/gcal.html",
+		"/C/Users/King/Desktop/Chris' Site/package/faculty-onepage/index.html",
+		"/C/Users/King/Desktop/Chris' Site/package/faculty-onepage/js/masonry.min.js",
+		"/C/Users/King/Desktop/Chris' Site/package/faculty-onepage/js/custom.js",
+		"/C/Users/King/Desktop/Chris' Site/fullcalendar-2.0.3/fullcalendar-2.0.3/demos/gcal.html",
+		"/C/Users/King/Desktop/Chris' Site/fullcalendar-2.0.3/fullcalendar-2.0.3/demos/default.html",
+		"/C/Users/King/Desktop/Chris' Site/package/faculty-onepage/fullcalendar.js",
+		"/C/Users/King/Desktop/Chris' Site/package/faculty-onepage/lib/jquery-ui.custom.min.js",
+		"/C/Users/King/Desktop/Chris' Site/package/faculty-onepage/lib/moment.min.js",
+		"/C/Users/King/Desktop/Chris' Site/package/faculty-onepage/lib/jquery.min.js",
+		"/C/Users/King/Desktop/Chris' Site/package/faculty-onepage/gcal.js",
+		"/C/Users/King/Dropbox/Chris' Site/fullcalendar-2.0.3/fullcalendar-2.0.3/demos/gcal.html",
+		"/C/Users/King/Dropbox/Chris' Site/fullcalendar-2.0.3/fullcalendar-2.0.3/demos/default.html",
+		"/C/Users/King/Dropbox/Chris' Site/package/faculty-onepage/index.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Windows/System32/drivers/etc/hosts1",
+		"/C/Users/King/Desktop/translator.py",
+		"/C/Users/King/Desktop/EMP/index.html",
+		"/C/Users/King/Desktop/ez_setup.py"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Users\\King\\Documents\\PhoneGap\\workshop",
+			"C:\\xampp\\htdocs\\Chris\\backoffice",
+			"C:\\Users\\King\\Desktop\\Chris' Site\\fullcalendar-2.0.3\\fullcalendar-2.0.3,C:\\Users\\King\\Desktop\\Chris' Site\\package\\faculty-onepage",
+			"C:\\Users\\King\\Desktop\\Chris' Site\\fullcalendar-2.0.3\\fullcalendar-2.0.3"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"template",
+			"this",
+			"08",
+			"8",
+			"''",
+			"<opt",
+			"tion",
+			"am",
+			"<select>",
+			"=",
+			"8",
+			"datetime",
+			"328 px",
+			"328px",
+			"328",
+			"datesString",
+			"onclic",
+			"readable",
+			"contact.php",
+			"contact",
+			"reserve",
+			"datesString",
+			"unset",
+			"$to",
+			".min",
+			"_send(",
+			"=,",
+			"x",
+			"none",
+			"328",
+			"height",
+			"contact",
+			"8px",
+			"datesString",
+			"start",
+			"$start",
+			"events",
+			"php",
+			".contact",
+			"init:",
+			"tooltip",
+			"function tooltip",
+			"tooltip()",
+			"tooltip",
+			"styl",
+			"teaching"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1909,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
